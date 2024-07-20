@@ -1,6 +1,7 @@
- sitto  sitto  ~  sudo mysql
+nirmal-Inspiron-15-3573% sudo mysql
+[sudo] password for nirmal: 
 Welcome to the MySQL monitor.  Commands end with ; or \g.
-Your MySQL connection id is 17
+Your MySQL connection id is 15
 Server version: 8.0.37-0ubuntu0.22.04.3 (Ubuntu)
 
 Copyright (c) 2000, 2024, Oracle and/or its affiliates.
